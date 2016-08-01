@@ -1,4 +1,4 @@
-This is the solution for the assignment under the course Introduction to Operating system (Spring 2016), taught by Professor Daniel Katz.
+This is the solution for the assignment under the course <strong> Introduction to Operating system </strong> (Spring 2016), taught by <em>Professor Daniel Katz.<em>
 
 We were to design a file system checker, which would ratify the following and would correct errors wherever requried:
 
