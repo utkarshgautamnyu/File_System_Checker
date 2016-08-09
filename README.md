@@ -15,7 +15,7 @@ We were to design a file system checker, which would ratify the following and wo
 <li>	If indirect is 1, that the data in the block pointed to by location pointer is an array</li>
 <li>  That the size is valid for the number of block pointers in the location array. The three possibilities are:
 <ol type="a">
-<li> size<blocksize  should have indirect=0 and size>0</li>
+<li> size<blocksize should have indirect=0 and size>0 </li>
 <li> if indirect!=0, size should be less than (blocksize*length of location array)</li>
 <li> if indirect!=0, size should be greater than (blocksize*length of location array-1) </li>
 </ol>
