@@ -1,6 +1,6 @@
 This is a project for the course <strong> Operating Systems </strong> (Spring 2016), taught by <em>Professor Daniel Katz.<em>
 
-We were to design a file system checker, which would ratify the following and would correct errors wherever requried:
+We were to design a file system checker, which would ratify the following and would correct errors wherever required:
 
 <ol>
 <li>	The DeviceID is correct (20)</li>
